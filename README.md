@@ -22,7 +22,11 @@ Arzaba Diaz April 1173 3W
 # python 7
 ![image](https://github.com/user-attachments/assets/d267eed8-8fc6-4b99-a8cf-375eb25c2250)
 ![image](https://github.com/user-attachments/assets/96af6360-66ea-436e-b3d3-412bb582f37d)
-# python 
+# python 8
+![image](https://github.com/user-attachments/assets/35f3d835-3260-46ec-8a8b-00f820bc8c35)
+![image](https://github.com/user-attachments/assets/7f55fc91-5db0-47f4-9498-e87a8d3e8d02)
+
+
 
 
 
